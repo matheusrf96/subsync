@@ -145,7 +145,7 @@ def temporalLogic(line, time):
     string = ""
 
     if str(line.strip()) != '':
-        if line.find("-->") != -1:
+        if line.find("-->") != -1 and len(line.strip()) == 29:
             line = str(line)
             time = str(time)
 
