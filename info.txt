@@ -1,0 +1,21 @@
+0:12 --> Primeiro tempo (
+    0:2 --> horas
+    3:5 --> minutos
+    6:8 --> segundos
+    9:12 --> milésimos
+    2 --> :
+    5 --> :
+    8 --> ,
+)
+12 --> Espaço
+13:16 --> Setas
+16 --> Espaço
+17:29 --> Segundo tempo (
+    17:19 --> horas
+    20:22 --> minutos
+    23:25 --> segundos
+    26:29 --> milésimos
+    19 --> :
+    22 --> :
+    25 --> ,
+)
