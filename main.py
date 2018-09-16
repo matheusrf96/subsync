@@ -3,6 +3,9 @@
 from content.io import *
 from content.timeConverter import *
 
+print("===== subsync =====")
+print()
+
 filepath = raw_input("Insert the name of the a file to be updated: ")
 time = input("Change (seconds): [Ex.: +20 | -5] ")
 
